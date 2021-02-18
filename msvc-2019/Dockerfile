@@ -1,4 +1,4 @@
-FROM branislav1991/windows-dev:latest
+FROM branislav1991/windows-dev:v1
 
 ENV MSVS_VERSION="16" \
     MSVS_URL="https://aka.ms/vs" \
